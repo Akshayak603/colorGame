@@ -1,3 +1,2 @@
 # colorGame
-Color RGB Game(html+css+bootstrap+js)
-Akshay
+- Color RGB Game(html+css+bootstrap+js)
